@@ -1,7 +1,7 @@
 # langchain-fundamentals
 
 
-Langchian cookbooks:
+Langchian cookbooks::
 
 Referance:
 - https://www.youtube.com/watch?v=2xxziIWmaSA
