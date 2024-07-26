@@ -17,3 +17,8 @@ Referance:
 - QnA
 - Querying SQL
 - Summaries
+- Langchian Chatbot
+- Langchina wiht RAg and tools
+- Langchian deployment with FastAPI
+- Langchain example
+- Langchina wiht RAg and AstraDB
