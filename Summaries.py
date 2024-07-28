@@ -6,7 +6,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
 from dotenv import load_dotenv
 
-
+# load env files
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
